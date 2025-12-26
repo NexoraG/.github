@@ -4,8 +4,7 @@ Welcome to Nexora Group's GitHub. This is where various members collaborate and 
 Nexora Members:<br>
 * RVL-Veemon (System32Booster)
 * Yuuya (YuuyaGitHub)
-* Euphoria3105 (No GitHub Account)
+* WinDragon35
 * PinDome
 * uper2121
-* Syokathu
-* Maximo
+* Syokathu(Ryo2021)
